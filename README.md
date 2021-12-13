@@ -1,5 +1,4 @@
-# inurmind12.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
 <link rel="stylesheet" href="module2styles.css">
